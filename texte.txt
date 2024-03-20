@@ -1,3 +1,4 @@
 Hello World !
 SAlut le monde
 Foutui conflit de la version local/Working directory
+Foutu Conflits
